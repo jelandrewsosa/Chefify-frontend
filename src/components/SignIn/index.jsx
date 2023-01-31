@@ -61,7 +61,7 @@ export default function SignIn() {
     }
 
     if (isSuccess || user) {
-      navigate("/");
+      navigate("/Chefify-frontend");
     }
 
     dispatch(reset());

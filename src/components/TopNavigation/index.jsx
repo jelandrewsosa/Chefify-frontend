@@ -63,7 +63,7 @@ export default function ButtonAppBar() {
             component="div"
             sx={{ flexGrow: 1 }}
           >
-            <Link className={style.logo} to="/Chefify">
+            <Link className={style.logo} to="/Chefify-frontend">
             Chefify
             </Link>
           </Typography>

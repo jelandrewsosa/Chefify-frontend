@@ -25,7 +25,7 @@ export default function LabelBottomNavigation() {
         label="Home"
         value="home"
         icon={
-          <Link to="/Chefify" style={{ color: "#2A292B" }}>
+          <Link to="/Chefify-frontend" style={{ color: "#2A292B" }}>
             <HomeIcon />
           </Link>
         }
